@@ -15,7 +15,7 @@ namespace CalculoPerimetro
             int c = 7;
             int Perimetro = (a + b + c);
 
-            Console.WriteLine("El valor del triángulo es: " + Perimetro);
+            Console.WriteLine("El valor del perímetro del triángulo es: " + Perimetro);
             Console.WriteLine("Presiona una tecla para finalizar");
             Console.ReadKey();
         }
